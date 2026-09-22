@@ -84,6 +84,10 @@ Manage FIFO customer queues, suitable tables and caller-controlled customer stat
 
 **[Get it on itch.io — $7.99](https://grgy078033.itch.io/restaurant-customer-queue)**
 
+## Practical guides
+
+- **[Daily NPC routines without tying them to movement](guides/daily-npc-routines.md)** — handle transitions, midnight wrap and next-entry queries; includes a real demo GIF and a captioned 30-second MP4 download.
+
 ## Compatibility
 
 Tested with **Godot 4.7.2 stable on Windows**, using the Compatibility renderer. Typed GDScript, Inspector-friendly Resources, no required Autoload or third-party runtime dependencies. Other versions/platforms are not certified.
@@ -92,6 +96,6 @@ Compatible with other plugins in the Godot Simulation Systems collection. No plu
 
 ## About this repository
 
-This is a product landing page, not the paid source distribution. It contains only product summaries and promotional media. Each paid download includes its own runnable demo, editable Resources, documentation and commercial asset license. No addon source or release ZIP is published here.
+This is a product landing page, not the paid source distribution. It contains product summaries, educational guides and promotional media. Each paid download includes its own runnable demo, editable Resources, documentation and commercial asset license. No addon source or release ZIP is published here.
 
 Original media and text remain copyright their respective author(s); no open-source license for the paid addons is granted by this repository. For product questions, use the corresponding itch.io page.
